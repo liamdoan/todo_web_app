@@ -1,4 +1,6 @@
 A todo web app with edit, delete, and completed-check functions and the ability to generate different color for every task bar
+# DEPLOYMENT
+https://liamdoan.github.io/todo_web_app/
 
 # Getting Started with Create React App
 
